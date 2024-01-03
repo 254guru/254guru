@@ -1,11 +1,9 @@
 <div align="center">
     <img src="./images/welcome.png?raw=true" style="max-width: 100%;" alt="welcome to my github profile">
-    <h1 align="center">Hi 👋, I'm Kevin Oluda</h1>
+     <h1 align="center">Hi 👋, I'm Kevin Oluda</h1>
 <h3 align="center">I am a seasoned front-end developer with a dynamic skill set and 2 years of industry experience. My expertise encompasses HTML5, CSS, JavaScript, Python, and C, and I thrive on crafting engaging web solutions. I specialize in responsive website design, web applications, and single-page applications to create immersive user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=254guru&label=Profile%20views&color=0e75b6&style=flat" alt="254guru" /> </p>
-
-<p align="left"> <a href="https://twitter.com/oluda_kevin" target="blank"><img src="https://img.shields.io/twitter/follow/oluda_kevin?logo=twitter&style=for-the-badge" alt="oluda_kevin" /></a> </p>
 
 - 🔭 I’m currently working on [AirBnB clone](https://github.com/254guru/AirBnB_clone_v2)
 
