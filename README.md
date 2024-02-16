@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=254guru&label=Profile%20views&color=0e75b6&style=flat" alt="254guru" /> </p>
 
-- 🔭 I’m currently working on [AirBnB clone](https://github.com/254guru/AirBnB_clone_v2)
+- 🔭 I’m currently working on [Mama's Joy](https://mamas-joy.onrender.com/)
 
 - 🌱 I’m currently learning **Fullstack software engineering**
 
 - 📫 How to reach me **oludakevin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kevin-oluda-65b848210/](https://www.linkedin.com/in/kevin-oluda-65b848210/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
