@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img src="./images/welcome.png?raw=true" style="max-width: 100%;" alt="welcome to my github profile">
      <h1 align="center">Hi 👋, I'm Kevin Oluda</h1>
 <h3 align="left">I am a skilled web developer and frontend engineer with extensive experience
