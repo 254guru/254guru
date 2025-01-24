@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./images/welcome.png?raw=true" style="max-width: 100%;" alt="welcome to my github profile">
      <h1 align="center">Hi 👋, I'm Kevin Oluda</h1>
-<h3>I am a skilled web developer and frontend engineer with extensive experience
+<h3 align="left">I am a skilled web developer and frontend engineer with extensive experience
 in React and Flask. My expertise lies in building scalable, user-centric web
 applications and e-commerce platforms, focusing on performance optimization
 and modern UI/UX design. As a technical writer, I have authored beginner-to-
