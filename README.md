@@ -14,7 +14,7 @@ oriented role in a clear and collaborative environment.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=254guru&label=Profile%20views&color=0e75b6&style=flat" alt="254guru" /> </p>
 <p align="left">
 
-- 🔭 I’m currently working on [Flask_WebSocket](https://github.com/254guru/flask_websocket)
+- 🔭 I’m currently working on [Job Market Dashboard](https://github.com/254guru/job-market-dashboard)
 
 - 🌱 I’m currently open to **Fullstack software engineering** jobs and internships
 
