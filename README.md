@@ -41,7 +41,7 @@ oriented role in a clear and collaborative environment.</h3>
     srcset="https://github-readme-stats.vercel.app/api?username=254guru&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=254guru&show_icons=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=254guru&show_icons=true" />
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=254guru)](https://github.com/254guru/github-readme-stats)
